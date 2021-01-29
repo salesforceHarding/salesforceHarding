@@ -3,13 +3,13 @@
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/sforceHarding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/twitter.png?raw=true"></a>
+  <a href="https://twitter.com/sforceHarding"><img style="background-color:white;" height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/twitter.png?raw=true"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/salesforceharding/"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/salesforceharding/"><img style="background-color:white;" height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/linkedin.png?raw=true"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/salesforceHarding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/github.png"></a>
+  <a href="https://github.com/salesforceHarding"><img style="background-color:white;" height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/github.png"></a>
   &nbsp;&nbsp;
-  <a href="https://salesforceharding.com/"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/wordpress.png"></a>
+  <a href="https://salesforceharding.com/"><img style="background-color:white;" height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/wordpress.png"></a>
 </p>
 <p align='center'>
   &nbsp;&nbsp;
