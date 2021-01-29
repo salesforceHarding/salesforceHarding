@@ -1,6 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salesforceHarding)](https://github.com/salesforceHarding/github-readme-stats)
-
-
+[![Header](https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 <!--
