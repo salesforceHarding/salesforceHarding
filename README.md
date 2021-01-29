@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/readme_header.png" title="salesforceHarding's Certifications">
+  <img src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/images/readme_header.png" title="salesforceHarding's Certifications">
 </p>
 
 <p align='center'>
