@@ -7,5 +7,7 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salesforceharding/"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/linkedin.png?raw=true"></a>
   &nbsp;&nbsp;
-  <a href=""><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/github.png"></a>
+  <a href="https://github.com/salesforceHarding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/github.png"></a>
+  &nbsp;&nbsp;
+  <a href="https://salesforceharding.com/"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/wordpress.png"></a>
 </p>
