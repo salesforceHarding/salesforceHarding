@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/readme_header.png" width="256" title="Github Logo">
+  <img src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/readme_header.png" title="Github Logo">
 </p>
