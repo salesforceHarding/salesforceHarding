@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salesforceHarding)](https://github.com/salesforceHarding/github-readme-stats)
+
+
 ### Hi there 👋
 
 <!--
