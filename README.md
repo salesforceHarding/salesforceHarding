@@ -10,8 +10,8 @@
   <a href="https://github.com/salesforceHarding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/github.png"></a>
   &nbsp;&nbsp;
   <a href="https://salesforceharding.com/"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/wordpress.png"></a>
+</p>
+<p align='center'>
   &nbsp;&nbsp;
   <a href="https://trailblazer.me/id/salesforceharding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/trailhead.png"></a>
-
-
 </p>
