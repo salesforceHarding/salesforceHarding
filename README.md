@@ -13,5 +13,5 @@
 </p>
 <p align='center'>
   &nbsp;&nbsp;
-  <a href="https://trailblazer.me/id/salesforceharding"><img height="30" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/trailhead.png"></a>
+  <a href="https://trailblazer.me/id/salesforceharding"><img height="60" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/trailhead.png"></a>
 </p>
