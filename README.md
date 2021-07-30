@@ -19,7 +19,7 @@
     <img height="40" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/wordpress.png?raw=true" style="background-color:white;">
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackexchange.com/users/13599053/lee-harding">
+  <a href="https://stackoverflow.com/users/9810192/lee-harding?tab=profile">
     <img height="40" src="https://raw.githubusercontent.com/salesforceHarding/salesforceHarding/master/icons/stackoverflow.png?raw=true" style="background-color:white;">
   </a>
 </p>
